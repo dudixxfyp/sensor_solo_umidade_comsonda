@@ -8,7 +8,7 @@ const char* ssid = "SEU_WIFI";
 const char* password = "SUA_SENHA";    
 
 // --- CONFIGURAÇÃO DA API ---
-const char* serverUrl = "http://SEU_IP:5000/dados"; // exemplo: http://192.168.0.10:5000/dados
+const char* serverUrl = "http://SEU_IP:5000/dados"; // 
 
 // --- PINOS DO SENSOR ---
 #define SENSOR_ANALOGICO A0
