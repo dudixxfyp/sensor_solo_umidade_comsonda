@@ -1,0 +1,1 @@
+# sensor_solo_umidade_comsonda
