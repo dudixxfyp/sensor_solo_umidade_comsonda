@@ -1,4 +1,4 @@
-# sensor_solo_umidade_comsonda  
+# sensor solo de umidade com sonda  
 Repositório: **sensor_solo_umidade_comsonda**
 
 ## 📌 Descrição  
